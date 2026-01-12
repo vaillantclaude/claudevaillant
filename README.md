@@ -23,8 +23,7 @@ Une enceinte connectée intelligente pour aider les personnes âgées à :
 ## 💼 Mes Services
 
 ### Pour les Entreprises
-✅ **Formation "IA au Quotidien"** - Gagner 2h/jour avec ChatGPT & IA  
-✅ **Audit des Cas d'Usage IA** - Identifier où l'IA peut aider VOTRE métier  
+✅ **Formation "IA au Quotidien"** - Comprendre et utiliser l'IA au quotidien    
 ✅ **Accompagnement Transformation Digitale** - Sans stress technique
 
 ### Pour les Seniors & Associations
