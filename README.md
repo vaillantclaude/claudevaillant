@@ -1,63 +1,34 @@
-# 👋 Bonjour, je suis Claude Vaillant
+# Bonjour, je suis Claude Vaillant
 
-## 🎯 Ma Mission
-**Rendre l'Intelligence Artificielle accessible à tous, sans jargon technique.**
+## Ma Mission
 
-Je forme les entreprises et accompagne les seniors dans l'utilisation de l'IA au quotidien.
+Rendre plus accessible la compréhension et l'utilisation de l'IA en vulgarisant les concepts, entrevoir la blockchain et ses solutions, et accompagner la transformation digitale en entreprise.
 
----
-
-## 🚀 Mon Projet Phare : Compagnon Senior
+## Mon Projet Phare : Compagnon Senior
 
 Une enceinte connectée intelligente pour aider les personnes âgées à :
-- 💊 **Ne jamais oublier leurs médicaments** (rappels vocaux personnalisés)
-- 📅 **Gérer leurs rendez-vous médicaux** (prise de RDV par la voix)
-- 💬 **Avoir une compagnie quotidienne** (conversations, actualités, musique)
 
-> **Objectif :** Prolonger l'autonomie à domicile et briser l'isolement.
+- Ne jamais oublier leurs médicaments (rappels vocaux personnalisés)
+- Gérer leurs rendez-vous médicaux (prise de RDV par la voix)
+- Avoir une compagnie quotidienne (conversations, actualités, musique)
 
-[📄 Voir la présentation du projet](lien-vers-ta-présentation.pdf)
+**Objectif :** Prolonger l'autonomie à domicile et briser l'isolement.
 
----
+[Voir la présentation du projet](#)
 
-## 💼 Mes Services
+## Mes Services
 
-### Pour les Entreprises
-✅ **Formation "IA au Quotidien"** - Comprendre et utiliser l'IA au quotidien    
-✅ **Accompagnement Transformation Digitale** - Sans stress technique
+### Pour les entreprises
+
+- **Formation "IA au Quotidien"** - Comprendre et utiliser l'IA au quotidien
+- **Accompagnement Transformation Digitale** - Sans stress technique
 
 ### Pour les Seniors & Associations
-✅ **Ateliers Tablettes & IA** - Rester autonome avec le numérique  
-✅ **Projet Compagnon Senior** - Solution innovante pour le maintien à domicile
 
----
+- **Projet Compagnon Senior** - Assistant journalier pour la gestion de mon suivi médical complet et compagnon vocal à domicile
 
-## 🎓 Formations & Certifications
+## Formations et Certifications
 
-- 🏛️ **Harvard University** - CS50's Introduction to AI with Python (2025)
-- 🔗 **Alyra** - Chef de Projet Blockchain (2021-2022)
-- 🇫🇷 **INRIA** - Sciences Informatiques & Enseignement (2025)
-- 🧠 **France Université Numérique** - Fondamentaux de l'IA (2025)
-
----
-
-## 📫 Me Contacter
-
-📧 **Email :** claude.vaillant59@orange.fr  
-📱 **Téléphone :** 06 62 31 47 21  
-📍 **Localisation :** Hauts-de-France 
-
-🔗 **Profil Malt :** [Voir mon profil freelance](ton-lien-malt)  
-💼 **LinkedIn :** [Me suivre sur LinkedIn](ton-lien-linkedin)
-
----
-
-## 💡 Pourquoi Travailler Avec Moi ?
-
-✔️ **20 ans d'expérience terrain** - Je parle le langage de l'entreprise, pas le jargon tech  
-✔️ **Pédagogie éprouvée** - Formé par Harvard et l'INRIA à l'enseignement  
-✔️ **Passion pour l'humain** - L'IA doit servir les gens, pas les remplacer  
-✔️ **Approche pragmatique** - Des solutions concrètes, pas de la théorie
-
----
-<img width="470" height="645" alt="image" src="https://github.com/user-attachments/assets/16cdbbb0-6af6-4882-b1f1-c313dca3e7c3" />
+- **Université Harvard** - CS50 Introduction à l'IA avec Python (2025)
+- **Alyra** - Chef de Projet Blockchain (2021-2022)
+- **INRIA** - Sciences Informatiques & Enseignemen
