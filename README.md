@@ -2,14 +2,14 @@
 
 ## Ma Mission
 
-Rendre plus accessible la compréhension et l'utilisation de l'IA en vulgarisant les concepts, entrevoir la blockchain et ses solutions, et accompagner la transformation digitale en entreprise.
+Rendre plus accessible la compréhension et l'utilisation de l'IA en vulgarisant les concepts, entrevoir la blockchain et ses solutions, et accompagner la transformation digitale pour toutes et tous.
 
 ## Mon Projet Phare : Compagnon Senior
 
 Une enceinte connectée intelligente pour aider les personnes âgées à :
 
-- Ne jamais oublier leurs médicaments (rappels vocaux personnalisés)
-- Gérer leurs rendez-vous médicaux (prise de RDV par la voix)
+- Ne jamais oublier leurs médicaments et s'assurer de la correspondance entre médicament original et ses génériques (rappels vocaux personnalisés)
+- Gérer leurs rendez-vous médicaux et le transport (prise de RDV par la voix)
 - Avoir une compagnie quotidienne (conversations, actualités, musique)
 
 **Objectif :** Prolonger l'autonomie à domicile et briser l'isolement.
