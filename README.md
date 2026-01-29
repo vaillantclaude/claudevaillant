@@ -32,3 +32,6 @@ Une enceinte connectée intelligente pour aider les personnes âgées à :
 - **Université Harvard** - CS50 Introduction à l'IA avec Python (2025)
 - **Alyra** - Chef de Projet Blockchain (2021-2022)
 - **INRIA** - Sciences Informatiques & Enseignemen
+## 🎥 Vidéo de démonstration
+
+[![Voir la vidéo](URL_DE_TON_IMAGE)](URL_DE_TA_VIDEO)
