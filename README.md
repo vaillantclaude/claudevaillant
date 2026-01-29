@@ -34,4 +34,5 @@ Une enceinte connectée intelligente pour aider les personnes âgées à :
 - **INRIA** - Sciences Informatiques & Enseignemen
 ## 🎥 Vidéo de démonstration
 
-[![Voir la vidéo](URL_DE_TON_IMAGE)](URL_DE_TA_VIDEO)
+[![Voir la vidéo](https://github.com/vaillantclaude/claudevaillant/blob/main/cybersecurity.png)](https://youtu.be/2cUBQWmTwFM<img width="454" height="50" alt="image" src="https://github.com/user-attachments/assets/e10ba855-c40f-4136-83a0-510af73c1da9" />
+)
