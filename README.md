@@ -14,7 +14,6 @@ Une enceinte connectée intelligente pour aider les personnes âgées à :
 
 **Objectif :** Prolonger l'autonomie à domicile et briser l'isolement.
 
-[Voir la présentation du projet](#)
 
 ## Mes Services
 
