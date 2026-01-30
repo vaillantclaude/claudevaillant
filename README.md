@@ -36,3 +36,7 @@ Une enceinte connectée intelligente pour aider les personnes âgées à :
 ## 🎥 Vidéo de démonstration
 
 [![Voir la vidéo](https://github.com/vaillantclaude/claudevaillant/blob/main/cybersecurity.png)](https://youtu.be/2cUBQWmTwFM)
+
+## 🧰 Utile
+
+- [Anonymiser les transcriptions avant analyse](https://github.com/vaillantclaude/anonymiser-transcriptions-teams)
