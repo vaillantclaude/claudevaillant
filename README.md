@@ -38,4 +38,4 @@ Une enceinte connectée intelligente pour aider les personnes âgées à :
 
 ## 🧰 Utile
 
-- [Anonymiser les transcriptions avant analyse](https://github.com/vaillantclaude/anonymiser-transcriptions-teams)
+- [Anonymiser les transcriptions avant analyse](https://github.com/vaillantclaude/anonymiser-transcription-teams)
