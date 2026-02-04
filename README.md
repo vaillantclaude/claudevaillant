@@ -36,6 +36,12 @@ Une enceinte connectée intelligente pour aider les personnes âgées à :
 
 [![Voir la vidéo](https://github.com/vaillantclaude/claudevaillant/blob/main/cybersecurity.png)](https://youtu.be/2cUBQWmTwFM)
 
-## 🧰 Utile
+##  Utile
 
 - [Anonymiser les transcriptions avant analyse](https://github.com/vaillantclaude/anonymiser-transcription-teams)
+
+##  Contact
+
+- LinkedIn : https://www.linkedin.com/in/claude-vaillant
+- Email : claude.vaillant59@orange.fr
+- Localisation : Hauts-de-France
