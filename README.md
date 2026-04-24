@@ -1,5 +1,5 @@
 # Claude Vaillant  
-Consultant IA & Gouvernance des Usages | Spécialiste PME/TPE | Créateur d’outils RGPD offline
+Référent IA & Gouvernance des Usages | Spécialiste PME/TPE | Créateur d’outils RGPD offline
 
 ## Ma mission
 Rendre l’Intelligence Artificielle accessible, compréhensible et sécurisée pour les entreprises et les particuliers.  
