@@ -2,8 +2,9 @@
 Référent IA & Gouvernance des Usages | Spécialiste PME/TPE | Créateur d’outils RGPD offline
 
 ## Ma mission
-Rendre l’Intelligence Artificielle accessible, compréhensible et sécurisée pour les entreprises et les particuliers.  
-J’accompagne les PME/TPE dans l’adoption de l’IA, la mise en conformité RGPD, la structuration des usages et la transformation numérique.
+Rendre l’Intelligence Artificielle accessible, compréhensble et sécurisée pour les organisations.
+J'accompagne les PME/TPE dans l'adoption de l'IA, la structuration de leurs usages et l'intégration de pratiques fiables et responsables.
+Monr objectif: transformer l'IA en un outil opérationnel, maîtrisé et réellement utile au quotidien.
 
 ## Ce que je fais
 - Vulgarisation des concepts IA et LLM  
