@@ -4,7 +4,7 @@ Référent IA & Gouvernance des Usages | Spécialiste PME/TPE | Créateur d’ou
 ## Ma mission
 Rendre l’Intelligence Artificielle accessible, compréhensble et sécurisée pour les organisations.
 J'accompagne les PME/TPE dans l'adoption de l'IA, la structuration de leurs usages et l'intégration de pratiques fiables et responsables.
-Monr objectif: transformer l'IA en un outil opérationnel, maîtrisé et réellement utile au quotidien.
+Mon objectif: transformer l'IA en un outil opérationnel, maîtrisé et réellement utile au quotidien.
 
 ## Ce que je fais
 - Vulgarisation des concepts IA et LLM  
@@ -23,7 +23,7 @@ Développement d’un assistant vocal local destiné à améliorer l’autonomie
 - Objectif : préparation du pillulier, décryptage des médicaments génériques  
 
 ## Services pour les entreprises
-- Formation « IA au quotidien »  
+- Acculturation « IA au quotidien »  
 - Ateliers IA responsables (LLM, RGPD, sécurité)  
 - Mise en place de processus IA internes  
 - Accompagnement transformation digitale  
